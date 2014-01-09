@@ -7,11 +7,11 @@ CLSDBC: C implementation for Locally Scaled Density Based Clustering
 
 Version: 1.0 Date: 19/07/2006
 
-Version: 1.1 Date: 21/02/2014
+Version: 1.1 Date: 09/01/2014
 
 Author: Ergun Bicici
 
-Copyright: Ergun Bicici, 19/07/2006, 21/02/2014.
+Copyright: Ergun Bicici, 19/07/2006, 09/01/2014.
 
 
 Citation:
@@ -22,8 +22,6 @@ Link:
 
 http://home.ku.edu.tr/~ebicici/publications/Year/2007.html
 
-
-This code is also available here: https://github.com/ai-ku/lsdbc
 
 
 Bibtex item:
